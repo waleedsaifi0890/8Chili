@@ -50,24 +50,27 @@ This repo holds the website for 8chilli .com. The website is built with:
 
 Precise video segmentation for enhanced visual analysis and editing.
 
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
+ <img alt="GitPoint" title="CT SCAN " src="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12297225-chest-ct-3d-reconstructed-2140x1364.png#2140x1364" width="350px" >
 
 
 
 ## Annotations
 
 Effortlessly add annotations to your content for clear communication and feedback
+
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
 ## Filtration
 
-Full control of your video's visual aesthetics by fine-tuning colors with our comprehensive filtration options, including adjustments for hue, saturation, contrast, and more,
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
+Full control of your video's visual aesthetics by fine-tuning colors with our comprehensive filtration options, including adjustments for hue, saturation, contrast, and more.
+
+ <img alt="CT SCAN Reconstruction" title="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12297225-chest-ct-3d-reconstructed-2140x1364.png#2140x1364" width="350px" >
 
 
 ## Voice Overs
 Seamlessly integrate professional voice-overs to elevate your storytelling.
+
  <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
 
 
