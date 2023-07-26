@@ -50,7 +50,7 @@ This repo holds the website for 8chilli .com. The website is built with:
 
 Precise video segmentation for enhanced visual analysis and editing.
 
- <img alt="GitPoint" title="CT SCAN " src="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12297225-chest-ct-3d-reconstructed-2140x1364.png#2140x1364" width="350px" >
+ <img alt="GitPoint" title="CT SCAN" src="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12297225-chest-ct-3d-reconstructed-2140x1364.png#2140x1364" width="350px" >
 
 
 
@@ -65,13 +65,13 @@ Effortlessly add annotations to your content for clear communication and feedbac
 
 Full control of your video's visual aesthetics by fine-tuning colors with our comprehensive filtration options, including adjustments for hue, saturation, contrast, and more.
 
- <img alt="CT SCAN Reconstruction" title="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12297225-chest-ct-3d-reconstructed-2140x1364.png#2140x1364" width="350px" >
+ <img alt="src="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12297225-chest-ct-3d-reconstructed-2140x1364.png#2140x1364"" title="CT SCAN Reconstruction via VA" width="350px" >
 
 
 ## Voice Overs
 Seamlessly integrate professional voice-overs to elevate your storytelling.
 
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
+ <img alt="GitPoint" title="GitPoint" src="https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F1291930%2Fregular_1708x683_cover-designing-a-vui-93e1e3efe4e9489fdfeed319cbb38f4c.png" width="350px" >
 
 
 
