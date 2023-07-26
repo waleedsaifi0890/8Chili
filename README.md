@@ -65,7 +65,8 @@ Effortlessly add annotations to your content for clear communication and feedbac
 
 Full control of your video's visual aesthetics by fine-tuning colors with our comprehensive filtration options, including adjustments for hue, saturation, contrast, and more.
 
- <img alt="src="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12297225-chest-ct-3d-reconstructed-2140x1364.png#2140x1364"" title="CT SCAN Reconstruction via VA" width="350px" >
+
+ <img alt="GitPoint" title="CT SCAN" src="https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12297225-chest-ct-3d-reconstructed-2140x1364.png#2140x1364" width="350px" >
 
 
 ## Voice Overs
