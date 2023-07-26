@@ -1,6 +1,6 @@
 <h1 align="center"> 8Chilli </h1> <br>
 <p align="center">
-  <a href="https://gitpoint.co/">
+  <a href="">
     <img alt="GitPoint" title="GitPoint" src="https://static.wixstatic.com/media/173f6c_03b6ed08714e4a4ba3cbc7b79221fd02~mv2.png/v1/fit/w_2500,h_1330,al_c/173f6c_03b6ed08714e4a4ba3cbc7b79221fd02~mv2.png" >
   </a>
 </p>
