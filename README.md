@@ -56,9 +56,9 @@ Precise video segmentation for enhanced visual analysis and editing.
 
 ## Annotations
 
-Effortlessly add annotations to your content for clear communication and feedback
+Functionality to add annotations to your content for clear communication and feedback
 
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
+
 
 
 ## Filtration
