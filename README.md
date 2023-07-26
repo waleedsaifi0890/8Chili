@@ -80,7 +80,7 @@ Seamlessly integrate professional voice-overs to elevate your storytelling.
 
 ## Contact
 
-If you have any questions or feedback regarding this project, feel free to reach out to me:
+If you have any questions, feedback regarding this project or would like to see the code structure, feel free to reach out to me:
 
 
 - LinkedIn: [Waleed Saifi](https://www.linkedin.com/in/javascript-web-developer/)
