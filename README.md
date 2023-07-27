@@ -87,4 +87,4 @@ If you have any questions, feedback regarding this project or would like to see 
 - Upwork: [Waleed Saifi](https://www.upwork.com/freelancers/waleedsaifi0890)
 
 
-I'd be happy to hear from you and discuss anything related to this project or any potential collaborations!
+I'd be happy to hear from you and discuss anything related to this project or any potential collaborations!!
