@@ -70,7 +70,7 @@ Full control of your video's visual aesthetics by fine-tuning colors with our co
 
 
 ## Voice Overs
-Seamlessly integrate professional voice-overs to elevate your storytelling.
+Easily integrate professional voice-overs to elevate your storytelling.
 
  <img alt="GitPoint" title="GitPoint" src="https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fblog_post_page%2Fcontent%2Fcover_image_file%2Fcover_image%2F1291930%2Fregular_1708x683_cover-designing-a-vui-93e1e3efe4e9489fdfeed319cbb38f4c.png" width="350px" >
 
